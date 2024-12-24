@@ -1,6 +1,6 @@
 # Machine-Learning-project
 This machine learning project aims to develop a model that predicts car prices in the American market based on various independent variables.
-This machine learning project aims to develop a model that predicts car prices in the American market based on various independent variables. A Chinese automobile company plans to enter the US market by setting up a local manufacturing unit and needs to understand the pricing dynamics that differ from their home market. They have contracted an automobile consulting firm to analyze factors influencing car prices in the US.
+A Chinese automobile company plans to enter the US market by setting up a local manufacturing unit and needs to understand the pricing dynamics that differ from their home market. They have contracted an automobile consulting firm to analyze factors influencing car prices in the US.
 
 The objective is to build a predictive model using the available dataset, which includes different car features, and understand how these variables affect the price. The model will help the company identify key factors such as car make, model, engine type, fuel economy, and others, allowing them to adjust their design, business strategies, and pricing for the new market.
 
